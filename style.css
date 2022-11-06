@@ -353,7 +353,7 @@ h2 {
     width: 414px;
   }
   .hero {
-    margin: 0px;
+    margin: 0px 0px 64px 0px;
   }
   .hero-heading {
     margin-top: 48px;
